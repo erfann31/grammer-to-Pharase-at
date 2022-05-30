@@ -67,7 +67,7 @@ public class grammerToPharase {
             }
         }
 
-        System.out.println("ph: " + mapToPharase(grammarsMap, "S"));
+        System.out.println("Regular expression: " + mapToPharase(grammarsMap, "S"));
     }
 
     static String mapToPharase(Map<String, ArrayList<String>> inputMap, String StartState) {
