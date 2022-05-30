@@ -1,0 +1,9 @@
+S#lA
+A#aC
+A#bB
+A#aaA
+B#lC
+B#cC
+C#$
+
+Regular expression: la U b(lUc)(aa)*a U b(lUc)

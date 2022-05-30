@@ -1,0 +1,14 @@
+S#aS
+S#bS
+S#cC
+S#ccC
+S#cccC
+S#aA
+S#bB
+A#aaC
+A#xB
+B#yA
+B#bC
+C#$
+
+Regular expression: ((aUb))*(cUcc) U ccc U aaa(xy)*aa U bb

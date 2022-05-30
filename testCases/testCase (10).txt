@@ -1,0 +1,11 @@
+S#aA
+S#bA
+S#ssS
+A#cA
+A#dC
+A#eB
+B#bbC
+B#lC
+C#$
+
+Regular expression: (aUb)(c)*d U e(bbUl)(ss)*(aUb)d U e(bbUl)

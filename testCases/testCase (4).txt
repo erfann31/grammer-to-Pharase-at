@@ -1,0 +1,5 @@
+S#aS
+S#bS
+S#$
+
+Regular expression: ((aUb))*

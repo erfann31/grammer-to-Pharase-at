@@ -1,0 +1,6 @@
+S#aS
+S#bA
+A#cA
+A#$
+
+Regular expression: (a)*b(c)*

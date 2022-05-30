@@ -1,0 +1,9 @@
+S#aA
+S#bB
+A#cC
+C#cC
+C#cD
+B#bD
+D#$
+
+Regular expression: ac(c)*c U bb

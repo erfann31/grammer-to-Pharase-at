@@ -1,0 +1,11 @@
+S#ssS
+S#aA
+A#aA
+A#bB
+B#bB
+B#ccC
+B#dC
+B#lC
+C#$
+
+Regular expression: (ss)*a(a)*b(b)*(ccUd) U l

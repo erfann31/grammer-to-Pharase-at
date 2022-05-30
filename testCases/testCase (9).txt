@@ -1,0 +1,9 @@
+S#aA
+S#bbA
+A#cB
+A#dB
+B#fgC
+B#aC
+C#$
+
+Regular expression: (aUbb)(cUd)(fgUa)

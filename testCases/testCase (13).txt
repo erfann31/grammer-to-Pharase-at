@@ -1,0 +1,9 @@
+S#lA
+A#aC
+A#bC
+A#lB
+B#lC
+B#cC
+C#$
+
+Regular expression: l(aUb) U l(lUc)

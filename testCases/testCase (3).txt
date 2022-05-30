@@ -1,0 +1,9 @@
+S#aA
+S#bA
+A#cS
+A#dB
+B#uB
+B#xyzC
+C#$
+
+Regular expression: ((aUb)c)*(aUb)d(u)*xyz

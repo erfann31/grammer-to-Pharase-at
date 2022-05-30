@@ -1,0 +1,12 @@
+S#aA
+S#bT
+A#cS
+A#aB
+A#bT
+B#bB
+B#aC
+C#aT
+C#bT
+C#$
+
+Regular expression: (ac)*aa(b)*a
